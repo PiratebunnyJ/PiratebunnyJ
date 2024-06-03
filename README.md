@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Tag me
 - 📫 How to reach me through GitHub
 - 😄 Pronouns: Yes
-- ⚡ Fun fact: It is possible to have your skydive harness strapped to tight.
+- ⚡ Fun fact: Strapping your skydive harness to tight might causes a headache.
