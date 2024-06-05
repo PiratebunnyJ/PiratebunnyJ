@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PiratebunnyJ
 - 👀 I’m interested in cooking, falling down the hill on a snowboard, not getting slapped in the face by a shark and BBQ-ing
 - 🌱 I’m currently learning (That's pretty much it)
-- 💞️ I’m looking to collaborate on Tag me
-- 📫 How to reach me through GitHub
 - 😄 Pronouns: Yes
-- ⚡ Fun fact: Strapping your skydive harness to tight might causes a headache.
+- ⚡ Fun fact: Strapping your skydive harness to tight might cause a headache.
